@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fire-b41bf": {
+      "hosting": {
+        "tiendadotnet": [
+          "fire-b41bf"
+        ]
+      }
+    }
+  }
+}

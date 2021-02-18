@@ -1,0 +1,17 @@
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\bin\Debug\net5.0\ref\Logica.dll
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\bin\Debug\net5.0\Datos.dll
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\bin\Debug\net5.0\Entity.dll
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\bin\Debug\net5.0\Datos.pdb
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\bin\Debug\net5.0\Entity.pdb
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\obj\Debug\net5.0\Logica.csprojAssemblyReference.cache
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Users\Oscar Morales\Proyectos Web\Tienda\Logica\obj\Debug\net5.0\Logica.pdb
